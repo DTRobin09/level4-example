@@ -1,8 +1,6 @@
 package com.chess.madlevel4example
 
-import androidx.room.ColumnInfo
-import androidx.room.Entity
-import androidx.room.PrimaryKey
+import androidx.room.*
 
 @Entity(tableName = "reminderTable")
 class Reminder(
