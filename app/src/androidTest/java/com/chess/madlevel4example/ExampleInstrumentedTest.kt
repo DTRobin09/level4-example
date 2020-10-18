@@ -1,4 +1,4 @@
-package com.chess.madlevel3example
+package com.chess.madlevel4example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
